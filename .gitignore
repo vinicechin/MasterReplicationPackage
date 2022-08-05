@@ -1,0 +1,8 @@
+MSR/src/secret.py
+
+MSR/src/0-article-packages
+
+MSR/src/2-code-mining/*
+!MSR/src/2-code-mining/mining.py
+
+MSR/src/3-code-parse/repos_info.csv
